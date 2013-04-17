@@ -1,6 +1,6 @@
 body {
 	font-family: Arial;
-	margin-top: 20%;
+	margin-top: 200px;
 	font-size: 14px;
 }
 table {
@@ -10,7 +10,7 @@ table {
 
 thead {
 	font-weight: bold;
-	background-color: yellow;
+	background-color: #696969;
 	color: white;
 	border: 5px solid white;
 }
@@ -31,4 +31,9 @@ td {
 
 ul {
 	list-style-type: none;	
+}
+
+a {
+display:block;
+width:100px;
 }
