@@ -1,0 +1,26 @@
+body {
+	font-family: Arial;
+	margin-top: 20%;
+}
+table {
+	margin: 0 auto;
+	text-align: rigth;
+}
+thead {
+	font-weight: bold;
+	font-size: 14px;
+	background-color: gray;
+	color: white;
+	border: 5px solid white;
+}
+
+tbody {
+	font-size: 14px;
+	background-color: #DCDCDC;
+	color: black;
+	border: 5px solid white;
+}
+
+td {
+	padding: 5px;
+}
