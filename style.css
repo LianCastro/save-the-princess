@@ -1,6 +1,7 @@
 body {
 	font-family: Arial;
 	margin-top: 20%;
+	font-size: 14px;
 }
 table {
 	margin: 0 auto;
@@ -8,14 +9,12 @@ table {
 }
 thead {
 	font-weight: bold;
-	font-size: 14px;
 	background-color: gray;
 	color: white;
 	border: 5px solid white;
 }
 
 tbody {
-	font-size: 14px;
 	background-color: #DCDCDC;
 	color: black;
 	border: 5px solid white;
