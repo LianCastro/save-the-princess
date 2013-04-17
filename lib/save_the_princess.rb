@@ -1,2 +1,3 @@
 # lib/save_the_princess.rb
-puts "Did work!"
+
+require "save_the_princess/die.rb"
