@@ -7,19 +7,28 @@ table {
 	margin: 0 auto;
 	text-align: rigth;
 }
+
 thead {
 	font-weight: bold;
-	background-color: gray;
+	background-color: #696969;
 	color: white;
 	border: 5px solid white;
 }
 
-tbody {
+.alt {
 	background-color: #DCDCDC;
+}
+
+tbody {
+	background-color: #F8F8FF;
 	color: black;
 	border: 5px solid white;
 }
 
 td {
 	padding: 5px;
+}
+
+ul {
+	list-style-type: none;	
 }
