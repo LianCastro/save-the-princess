@@ -10,7 +10,7 @@ table {
 
 thead {
 	font-weight: bold;
-	background-color: #696969;
+	background-color: red;
 	color: white;
 	border: 5px solid white;
 }
