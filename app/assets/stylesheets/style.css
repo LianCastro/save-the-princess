@@ -1,0 +1,26 @@
+body {
+	font-size: 16px;
+	background-color: #F8F8FF;
+	font-family:"Arial";
+	color: black;
+}
+
+table {
+	margin: 0 auto;
+	margin-top: 200px;
+}
+
+thead {
+	font-weight: bold;
+	font-size: 18px;
+	background-color: #696969;
+	color: white;
+}
+
+tbody .alt {
+	background-color: #DCDCDC;
+}
+
+td {
+	padding: 5px 15px 5px 15px;
+}
